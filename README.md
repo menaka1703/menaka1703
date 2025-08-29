@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-Welcome to my data-driven world! I’m **Menaka K**, a dedicated and curious **Data Science professional** with a solid foundation in **mathematics** and hands-on expertise in **Machine Learning**, **Deep Learning**, **Computer Vision**,**NLP** and **Generative AI**.
+Welcome to my data-driven world! I’m **Menaka K**, a dedicated and curious **Data Science professional** with a solid foundation in **computer application** and hands-on expertise in **Machine Learning**, **Deep Learning**, **Computer Vision**,**NLP** and **Generative AI**.
 
 - **What Drives Me:** A passion for tech, an obsession with impact, and a love for experimentation. I enjoy blending innovation with utility to create solutions that truly make a difference.
 
@@ -128,7 +128,7 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Sundar's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=menaka1703&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="menaka's GitHub Stats" /></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
 </table>
@@ -139,6 +139,6 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 
 ## 📬 Contact Me
 
-- 📧 **Email**: [velsundar490@gmail.com](mailto:velsundar490@gmail.com)  
-- 🔗 [LinkedIn](http://www.linkedin.com/in/sundar-v-389bb4310)  
-- 📍 **Location**: Virudhachalam, Tamil Nadu
+- 📧 **Email**: [menaka1703@gmail.com](mailto:menaka1703@gmail.com)  
+- 🔗 [LinkedIn](http://www.linkedin.com/in/menaka1703)  
+- 📍 **Location**: Trichy, Tamil Nadu
