@@ -73,18 +73,14 @@ Built an interactive PDF QA system that understands both text and images from up
 
 **Tech Used:** Tesseract OCR, PyMuPDF, LangChain, FAISS, HuggingFace, LLaMA2 (Ollama), Streamlit
 
-### 🧬 Disease Prediction System
+### 📄 A COMPARATIVE ANALYSIS OF MACHINE LEARNING ALGORITHMS FOR CYBERDEFENSE THROUGH AI-ENABLED MALWARE AND INTRUSION DETECTION
 
-A Streamlit web app that predicts diseases based on selected symptoms using AI.
+- 🩺 **Models:** Logistic Regression, SVM, XGBoost, Deep Learning (TensorFlow/Keras), and stacking ensembles (SL1: DL meta-learner, SL2: XGBoost meta-learner) for       detecting intrusions and malware.
+- 🧹 **Preprocessing:** Label encoding for categorical data, StandardScaler for feature normalization, and handling missing values to prepare network, Android           (Drebin), and IoT datasets.
+- 🎯 **Feature Selection:** Processes high-dimensional datasets (42 features for network, 216 for Drebin, 63 for IoT) to extract relevant features for efficient         model training.
+- 🔧 **Tuning:** Optimizes models with configurations like XGBoost (logloss, random_state=42) and SVM (probability=True) for improved accuracy and robustness.
 
-- 🩺 **Model:** XGBoost trained on a symptom–disease dataset.
-- 🧹 **Preprocessing:** One-hot encoding, SMOTE for class balance.
-- 🎯 **Feature Selection:** Top 50 symptoms via SelectKBest.
-- 🔧 **Tuning:** RandomizedSearchCV to optimize performance.
-- 📊 **Output:** Predicts diseases with probabilities (e.g., “Flu: 85%”).
-- 💻 **UI:** Simple, user-friendly interface built with Streamlit.
-
-**Tech Used:** XGBoost, SMOTE, SelectKBest, RandomizedSearchCV, Streamlit
+**Tech Used:** Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, XGBoost, Matplotlib for visualization, and Jupyter Notebooks for development and experimentation.
 
 ### 🛡️ Seatbelt Detection System with Vision Transformer
 
@@ -97,18 +93,6 @@ AI-powered system to detect seatbelt usage from roadside camera images for impro
 - 🚗 **Impact:** Helps enforce seatbelt use via automated camera analysis.
 
 **Tech Used:** Vision Transformer (ViT), PyTorch, AdamW, Data Augmentation, Early Stopping
-
-### 🚗 AI-Powered Road Safety Analysis System
-
-A multi-modal AI system to predict road accidents and detect risks like potholes from images and voice input.
-
-- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**, **ARIMA**, **LSTM**, **TCN**, **Prophet**  to predict daily accident trends.
-- 🖼️ **Image Risk Detection:** Used **LLaVA** to analyze uploaded road images for dangers (e.g., potholes).
-- 🎙️ **Voice Input:** Used **Whisper** to convert questions (English/Tamil) into text; **LLaVA** answers and **gTTS** speaks it back.
-- 🌐 **User Interface:** Built using **Gradio** for interactive, multilingual access.
-- ⚙️ **Optimization:** Removed noisy data and deployed a lightweight LLaVA model for faster response.
-
-**Tech Used:** Transformer, ARIMA, LSTM, Prophet, TCN, TensorFlow, LLaVA, Whisper, gTTS, Gradio
 
 ---
 
